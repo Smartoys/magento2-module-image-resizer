@@ -1,9 +1,6 @@
 {
   "name": "staempfli/magento2-module-image-resizer",
   "description": "Magento 2 Module to add simple image resizing capabilities in all blocks and .phtml templates",
-  "require": {
-    "php": "^7.0"
-  },
   "type": "magento2-module",
   "license": [
     "OSL-3.0",
